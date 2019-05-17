@@ -1,0 +1,7 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+cout << "If you see this that means this program works." << endl;
+return 0;
+}
